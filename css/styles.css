@@ -1,0 +1,102 @@
+body {
+    height: 5000px;
+}
+
+.head-img {
+    width: 33px;
+    height: 42px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+head {
+    display: flex;
+    justify-content: space-between;
+}
+.head-ul {
+        display: flex;
+        flex-direction: row-reverse;
+}
+.head-ul  a {
+        width: 134px;
+        margin: 30px;    
+}
+.s-1 {
+    position: relative;
+    
+ 
+}
+.s-h1 {
+    position: absolute;
+    width: 625px;
+    height: 91px;
+    font-weight: 700;
+    font-size: 79px;
+    color: white;
+    margin-left: 40%;
+    margin-top: 15%;
+   
+   
+    
+}   
+.s-1 p {
+    margin-left: 45%;
+    margin-top: 25%;
+    width: 333px;
+    height: 22px;
+    color: white;
+    position: absolute;
+}
+.s-1 img {
+    position: absolute;
+    width: 1900px;
+    
+
+}
+.s-2 {
+    display: flex;
+}
+.left-side {
+    display: flex;
+    flex-direction: column;
+    margin-top: 860px;
+    margin-left: 50px;
+    width: 500px;
+}
+.d-p {
+    width: 89px;
+    height: 20px;
+    color: #636060;
+   
+}
+.d-h3 {
+    width: 214px;
+    height: 32px;
+    margin-bottom: 20px;
+}
+.d-p2 {
+    width: 214px;
+    height: 32px;
+    color: #636060;
+}
+.right-side {
+    display: flex;
+    width: 1100px;
+    flex-wrap: wrap;
+    margin-top: 860px;
+}
+div img {
+    width: 286px;
+    height: 195px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+div h3 {
+    width: 162px;
+    height: 22px;
+    margin-bottom: 40px;
+}
+div p {
+    width: 286px;
+    height: 63px;
+    margin-bottom: 30px;
+}
